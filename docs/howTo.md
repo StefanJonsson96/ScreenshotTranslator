@@ -29,7 +29,7 @@ python main.py
 ![Example Input](exampleInput.png) 
 
 **My scripts Output:**
-Translated Text:
+Translated Text:<br>
 Z<br>
 156.79<br>
 You, are you fine with that<br>
