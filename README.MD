@@ -4,7 +4,7 @@ This project is a small python script that takes whatever is in your clipboard a
 The reason for this project is that I use google translate in my browser to translate chat logs when I play video games online, but I would like to solve the problem programatically instead. However the Google Translate REST API is quite expensive so I'm using pytesseract to convert image to text, and then translator library to translate.
 
 ### How Do I Use it?
-- [How to](./src/howTo.md)
+- [How to](./docs/howTo.md)
 
 ### What's next?
 If I keep working on this project here are some examples of what I would like to try moving forward:
