@@ -25,17 +25,19 @@ pip install pytesseract translate Pillow
 cd ..\repos\ScreenshotTranslator\src
 python main.py
 ```
-### Example: Input: 
+**Example: Input:**
 ![Example Input](exampleInput.png) 
 
-My scripts Output:
-Translated Text: Z
-156.79
-You, are you fine with that
-Chat
-But if everything works out for you, then for the rest of your life you will fulfill all your dreams.
-You're an eyesore
+**My scripts Output:**
+Translated Text:
+Z<br>
+156.79<br>
+You, are you fine with that<br>
+Chat<br>
+But if everything works out for you, then for the rest of your life you will fulfill all your dreams.<br>
+You're an eyesore<br>
 
+**Google Translate Output:**
 ![Google Translate Output](google_translate_output.png)
 
 It seems like Google Translate and the python library has issues with different lines, and neither approach is fool-proof.
